@@ -14,5 +14,3 @@ notifications:
 	  - lm3639@nyu.edu
     on_success: always
     on_failure: never
-
-    
